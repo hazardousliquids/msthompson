@@ -2,7 +2,7 @@ header:
   title: Ms Thompson
   email: rthomps1@pps.net
   description: >
-    TESTS 
+    Home page for Ms Thompson, Health Teacher at Jefferson Highschool 
   baseurl: "" # the subpath of your site, e.g. /blog/
   url: "" # the base hostname & protocol for your site
 
