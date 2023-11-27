@@ -1,6 +1,7 @@
 title: Ms Thompson
 email: rthomps1@pps.net
-description: > TESTS # this means to ignore newlines until "baseurl:"
+description: > TESTS
+123 # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 
